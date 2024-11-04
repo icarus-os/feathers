@@ -1,2 +1,2 @@
-# feather
+# feathers
 The core extensibility engine
